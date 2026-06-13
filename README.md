@@ -1,3 +1,2 @@
 # sme-board-of-directors-skill
-This skill is a board of directors for building AI solutions or solutions built with AI for SME businesses
-test
+A Claude Code skill: a five-seat "board of directors" that advises on and critiques proposed AI solutions for small/medium enterprises (SMEs). It interrogates a proposal from five perspectives — strategy, cost/ROI, feasibility, adoption, and risk/compliance — through interactive deliberation. See `CLAUDE.md` for architecture and conventions.
